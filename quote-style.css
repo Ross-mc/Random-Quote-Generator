@@ -15,6 +15,7 @@ h1{
 @media(max-width: 800px){
     h1{
         width: 70%;
+        font-size: 2rem;
     }
 }
 
@@ -30,7 +31,7 @@ h1{
 
 @media(max-width: 800px){
     #quote-box{
-        width: 60%;
+        width: 80%;
     }
 }
 
